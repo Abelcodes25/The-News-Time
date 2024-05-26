@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>The News Time</title>
+		<link rel="stylesheet" href="./news.css" />
+	</head>
+
+	<body>
+		<div class="page">
+			<header class="brand-header">
+				<h1 class="brand">The News Times</h1>
+			</header>
+
+			<ul class="nav-links">
+				<li class="site-section">
+					<a href="#" class="section-link">Politics</a>
+				</li>
+				<li class="site-section">
+					<a href="#" class="section-link"> Technology</a>
+				</li>
+				<li class="site-section">
+					<a href="#" class="section-link">Local</a>
+				</li>
+				<li class="site-section">
+					<a href="#" class="section-link">Opinion</a>
+				</li>
+				<li class="site-section">
+					<a href="#" class="section-link">Sports</a>
+				</li>
+			</ul>
+
+			<article class="story story-1">
+				<h2 class="article-title">Student Learns HTML</h2>
+				<p class="article-text">
+					Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia id
+					illum ipsam quo sequi nihil, unde exercitationem! Totam laboriosam
+					repellat dicta fugit? Fugit tempora nesciunt, assumenda vel aspernatur
+					tenetur quia!
+				</p>
+				<p class="article-text">
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis
+					nisi nemo fugit in sunt minima quod. Saepe cupiditate cumque
+					doloremque aliquid, consequuntur sed voluptatum esse et odio sapiente
+					deserunt maiores!
+				</p>
+			</article>
+
+			<article class="story story-2">
+				<h2 class="article-title">Breaking: Luna is Adorable</h2>
+				<img
+					class="article-img"
+					src="http://pets-images.dev-apis.com/pets/dog25.jpg"
+					alt="Luna in a suitcase"
+				/>
+				<p class="article-text">
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa,
+					distinctio nulla, iste quo dicta rem cum tenetur consequuntur
+					molestiae sint eius nam dolores ipsum voluptatibus dignissimos aliquid
+					quas? Dolorum, architecto.
+				</p>
+				<p class="article-text">
+					Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia
+					officiis, in, dolorem explicabo qui suscipit eum est totam voluptatem
+					mollitia neque quibusdam necessitatibus molestias repellendus nam
+					dignissimos tempora ea perferendis?
+				</p>
+			</article>
+
+			<article class="story story-3">
+				<h2 class="article-title">Css is Apparently a Thing</h2>
+				<p class="article-text">
+					Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint
+					consectetur commodi doloremque quod illo rerum omnis, deleniti qui
+					laboriosam iste neque ex dolores! Ducimus quos velit libero illum fuga
+					molestias.
+				</p>
+				<p class="article text">
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit aut
+					odit, officiis nostrum soluta beatae magni iste dolorem aliquid quo
+					suscipit excepturi exercitationem quis corporis nobis? Quibusdam,
+					perspiciatis dicta! Ipsum!
+				</p>
+			</article>
+			<article class="Story story-4">
+				<h2 class="article-title">
+					Between the Angle Brackets: The Abel Hinojosa Scandal
+				</h2>
+				<p class="article-text">
+					Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magnam,
+					eius? Magni repudiandae labore incidunt. Corporis dolorem doloribus
+					praesentium, odio ex autem dolor veniam quod perspiciatis velit libero
+					vel laboriosam error?
+				</p>
+				<p class="article-text">
+					Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium
+					quod consequuntur iusto dicta aperiam assumenda nulla quos laborum
+					reprehenderit error omnis, repudiandae animi, dolores alias suscipit
+					repellendus totam. Harum, id.
+				</p>
+			</article>
+
+			<article class="story story-5 double-story">
+				<h2 class="article-title">
+					Scientist Invents New Miracle Drink: Coffee
+				</h2>
+				<p class="article-text">
+					Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta hic
+					illo soluta ipsam illum repellendus dolorem sed magni reprehenderit
+					veritatis consectetur optio reiciendis doloribus provident eligendi
+					vero, fuga eveniet voluptatem! Lorem, ipsum dolor sit amet consectetur
+					adipisicing elit. Velit architecto sit dicta corporis doloribus
+					placeat natus, repudiandae sed porro, ad repellat officiis neque
+					aperiam aliquid perferendis est fuga esse libero? Lorem ipsum dolor
+					sit amet consectetur adipisicing elit. Animi perspiciatis a omnis
+					veritatis, ab voluptates ullam aut quos, sint molestias itaque totam
+					quaerat voluptatem consectetur quidem enim obcaecati id blanditiis!
+				</p>
+				<p class="article-text">
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. At ipsam et
+					sapiente, molestiae minima hic aliquid quos corporis. Aliquam quos,
+					rerum enim beatae quidem ab magnam quaerat rem unde quae. Lorem ipsum
+					dolor sit amet consectetur, adipisicing elit. Culpa consectetur
+					accusantium inventore odit, architecto eius reiciendis blanditiis
+					libero dolorum eos molestias explicabo a quidem hic, aut optio, rerum
+					quibusdam asperiores? Lorem ipsum dolor sit amet consectetur
+					adipisicing elit. Modi corrupti deleniti itaque laudantium odio
+					debitis dolorem corporis atque adipisci aut aspernatur, officia
+					suscipit, illum exercitationem, voluptate minus nihil doloribus qui.
+				</p>
+				<p class="article-text">
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex quae animi
+					molestiae ab mollitia! Neque ullam unde quasi alias in sint eligendi
+					facilis veritatis quae itaque. Quo iste doloribus expedita! Lorem
+					ipsum dolor sit amet consectetur adipisicing elit. Ducimus sit ipsa
+					quas maiores illum natus odio expedita deleniti dignissimos harum
+					commodi nihil enim quia, tempore quis facilis, facere dolorem sint.
+					Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis quos
+					enim, quidem suscipit pariatur explicabo repellendus esse accusamus
+					corrupti odio nulla inventore? Quis quas quia, iste rem nam vitae
+					accusamus.
+				</p>
+			</article>
+		</div>
+	</body>
+</html>
